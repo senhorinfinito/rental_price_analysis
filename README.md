@@ -1,5 +1,8 @@
 # Rental Analysis - Pune:  Project Overview
 
+![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/rental_price_analysis.svg?cache=remove)
+
+
 * Secured a tool that estimates the rental price for Pune city which will help a person to estimates rent according to the parameters like comfort, location & many more. 
 * Scrapped over 16000+ houses descriptions from 99acres.com using Python and  **Beautiful Soup**. 
 * Generated features from total facilities provided by the owner, also created valuable features related cost from. 
