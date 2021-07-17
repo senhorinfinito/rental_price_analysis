@@ -10,4 +10,4 @@ activate venv
 
 requests.py: contain the get request file.
 
-Data_output:  Input file of requests.
+data_input:  Input file of requests.
