@@ -1,4 +1,6 @@
 # deployment
+![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/rental_deployment.svg?cache=remove)
+
 
 **This is a client-facing API using flask**
 
