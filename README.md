@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rental Analysis - Pune:  Project Overview
 
 ![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/rental_price_analysis.svg?cache=remove)
@@ -119,3 +120,20 @@ Apart from that I use lasso & Ridge to check performace imporvement. But this pa
 In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary.
 
 
+=======
+# deployment
+![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/rental_deployment.svg?cache=remove)
+
+
+**This is a client-facing API using flask**
+
+To use please clone repository first in local enviroment.
+
+Install requirements from  ```pip install -r requirements.txt```
+
+activate venv
+
+requests.py: contain the get request file.
+
+data_input:  Input file of requests.
+>>>>>>> 6a7c6edb8e2a1cb6a04b9ea80dac28dcb3a90204
