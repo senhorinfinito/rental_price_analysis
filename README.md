@@ -7,7 +7,7 @@
 * Scrapped over 16000+ houses descriptions from 99acres.com using Python and  **Beautiful Soup**. 
 * Generated features from total facilities provided by the owner, also created valuable features related cost from. 
 * Engineered Geospatial features using text address data. 
-* Optimised Linear, Random forest regressor using Randomsearchcv
+* Optimised Linear, Random forest regressor using Randomsearchcv. 
 * Built a client-facing API using flask. 
 
 # Code & Resources used 
