@@ -109,7 +109,6 @@ Model Listing :
 
 Apart from that I use lasso & Ridge to check performace imporvement. But this part is not included in notebook. 
 
-
 # Model Performace :
 **Linear Regression :** r2_score : 0.69. 
 
