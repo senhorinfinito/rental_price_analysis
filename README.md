@@ -15,7 +15,7 @@
 
 **Packages:** Pandas, Scikit-learn, Numpy, Geocoder, Folium, BeautifulSoup, flask, JSON, pickle, Matplotlib, seaborn.
 
-**For WebFrame requirements:** ```pip  install requirements.txt```
+**For WebFrame requirements:** ```pip  install requirements.txt``` 
 
 **rent Traffic:** Check map.html to check current rent traffic.
 
